@@ -33,6 +33,10 @@ To run the Simon Game locally, follow these steps:
 3. **Open `index.html` in your web browser**:
    You can open the file directly or use a local server.
 
+## Live Site
+You can play the Simon Game live at: https://ranjan-n.github.io/Simon-Game/
+
+
 ## How to Play
 
 1. You need to press any key to start the game.
